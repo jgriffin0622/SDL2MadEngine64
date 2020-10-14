@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<textures>
+  <texture id="knight_idle"source="assets/knight_idle_1x.png" />	
+  <texture id="knight_run"source="assets/knight_run_1x.png" />	
+  <texture id="knight_jump"source="assets/knight_jump_1x.png" />	
+  <texture id="knight_fall"source="assets/knight_fall_1x.png" />	
+  <texture id="knight_crouch"source="assets/knight_crouch_1x.png" />	
+  <texture id="knight_attack"source="assets/knight_attack_1x.png" />	
+</textures> 
